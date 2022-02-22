@@ -1,0 +1,17 @@
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.csproj.AssemblyReference.cache
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.csproj.SuggestedBindingRedirects.cache
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.conn.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.disconn.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.Form1.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.Properties.Resources.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.csproj.GenerateResource.cache
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.csproj.CoreCompileInputs.cache
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\bin\Debug\veritabanıproje.exe.config
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\bin\Debug\veritabanıproje.exe
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\bin\Debug\veritabanıproje.pdb
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.exe
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.pdb
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.combo.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.Ara.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.veriekle.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.fotografekle.resources

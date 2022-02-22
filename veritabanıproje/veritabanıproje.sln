@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veritabanıproje", "veritabanıproje\veritabanıproje.csproj", "{7FF3426B-A3A5-490A-BC79-546490DFC19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Proje1|Any CPU = Proje1|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF3426B-A3A5-490A-BC79-546490DFC19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF3426B-A3A5-490A-BC79-546490DFC19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF3426B-A3A5-490A-BC79-546490DFC19D}.Proje1|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF3426B-A3A5-490A-BC79-546490DFC19D}.Proje1|Any CPU.Build.0 = Debug|Any CPU
+		{7FF3426B-A3A5-490A-BC79-546490DFC19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF3426B-A3A5-490A-BC79-546490DFC19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237C2EE2-4999-4A78-9996-DE3A7C3626EF}
+	EndGlobalSection
+EndGlobal

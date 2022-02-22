@@ -1,0 +1,8 @@
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.csproj.AssemblyReference.cache
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.csproj.SuggestedBindingRedirects.cache
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.conn.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.disconn.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.Form1.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.Properties.Resources.resources
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.csproj.GenerateResource.cache
+C:\Users\taban\source\repos\veritabanıproje\veritabanıproje\obj\Proje1\veritabanıproje.csproj.CoreCompileInputs.cache
